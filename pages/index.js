@@ -72,7 +72,7 @@ const handleSubmit = (e) => {
          allowFullScreen
         webkitAllowFullScreen="true"
         mozAllowFullScreen="true"
-        title="Swastik Reva"
+        title="Dharohar"
       ></iframe>
  
            
